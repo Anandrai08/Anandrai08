@@ -107,22 +107,17 @@ Building scalable backend systems, payment automation, and developer-focused too
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anandrai08&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anandrai08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandrai08&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=Anandrai08&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrai08&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandrai08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ⭐ *Always learning, always building.*
