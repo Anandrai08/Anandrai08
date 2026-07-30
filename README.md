@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandrai08&label=Profile%20views&color=0e75b6&style=flat" alt="anandrai08" /> </p>
 
-- 🔭 I’m currently working on **Chess Game**
+- 🔭 I’m currently working Backend Automation Engineer at PhonePe
 
-- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **anandrai5899@gmail.com**
+- 📫 How to reach me **raianand00805@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
